@@ -2,9 +2,9 @@ import java.util.*;
 
 class Animal{
   String name;
-  int numLegs;
+  int legs;
 
   int getLegs(){
-    return numLegs;
+    return legs;
   }
 }
