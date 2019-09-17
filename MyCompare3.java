@@ -23,4 +23,3 @@ public class MyCompare3{
 		System.out.println(dogs);
 	}
 }
-}
