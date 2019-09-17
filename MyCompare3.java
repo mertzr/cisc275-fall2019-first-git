@@ -4,9 +4,9 @@ import java.util.Comparator;
 import java.util.List;
 
 public class MyCompare3 {
-	
+
 	public static void main(String[] args) {
-		
+
 		List<Dog> dogs = new ArrayList<Dog>();
 		dogs.add(new Dog("Fido", 4));
 		dogs.add(new Dog("Fido", 3));
