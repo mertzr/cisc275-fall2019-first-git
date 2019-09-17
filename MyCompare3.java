@@ -2,8 +2,17 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import compare.java;
 
 public class MyCompare3 {
+
+	public class Dog{
+	  String name;
+		int legs;
+	  public Dog(String dogName,int legs){
+	    this.name=dogName;
+			this.legs=legs;
+	  }
 
 	public static void main(String[] args) {
 
