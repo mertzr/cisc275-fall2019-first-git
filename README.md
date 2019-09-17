@@ -7,4 +7,4 @@ An arraylist of dogs, the three dog objects, and the comparator.
 
 3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
 
-line 16 is where the comparator is called but the class definition for the comparator is in lines 18 and 19. 
+line 17 is where the comparator is called but the class definition for the comparator is in lines 19 and 20. 
